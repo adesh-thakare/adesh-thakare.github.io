@@ -1,3 +1,3 @@
-# AjitR.github.io
+# adesh-thakare.github.io
 
 Personal Website 
